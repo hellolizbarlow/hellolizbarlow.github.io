@@ -1,11 +1,11 @@
 - name: Mr Blobby
   comment: "Chupa chups sesame snaps bear claw tiramisu cotton candy. Lemon drops ice cream candy topping. Oat cake lemon drops muffin tart donut caramels fruitcake icing halvah. Lollipop sweet roll cheesecake marzipan tootsie roll sesame snaps lollipop brownie."
-  image:
+  image: '/assets/images/quok1.jpeg'
 
 - name: Bubblegum Powerpuff
   comment: "Chocolate cake toffee candy pastry donut cookie. Ice cream sesame snaps lollipop chocolate cake sesame snaps biscuit cake. Donut sesame snaps apple pie biscuit."
-  image:
+  image: '/assets/images/quok2.jpeg'
 
 - name: Fantastic Mr Fox
   comment: "Sweet chupa chups croissant gummies danish cotton candy marshmallow wafer. Dessert sesame snaps tootsie roll chocolate cake lollipop donut. Chocolate bar bear claw macaroon. Sweet roll gingerbread soufflé bear claw cotton candy pastry chocolate."
-  image:
+  image: '/assets/images/quok3.jpeg'

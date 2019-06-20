@@ -4,6 +4,6 @@ permalink: /carousel/
 layout: default
 ---
 
-Hi this is a carousel, with a u. Hello there. boop.
+<h2 class="centerText">Testimonials</h2>
 
 {% include carousel-slider.html %}

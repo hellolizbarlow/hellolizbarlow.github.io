@@ -2,7 +2,11 @@
     <ul class="slides">
         {% for testimony in site.data.carousel %}
             <li>
-                <span class="slider-content">{{testimony.name}} : {{testimony.comment}}</span>
+                <div class="slider-content">
+                    <img class="author-image" src="{{testimony.image}}"/>
+                    <div>{{testimony.comment}}</div>
+                    <div class="author">{{testimony.name}}</div>
+                </div>
             </li>
         {% endfor %}
         
