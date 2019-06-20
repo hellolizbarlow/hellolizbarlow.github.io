@@ -1,0 +1,10 @@
+<div class="flexslider">
+    <ul class="slides">
+        {% for testimony in site.data.carousel %}
+            <li>
+                <span class="slider-content">{{testimony.name}} : {{testimony.comment}}</span>
+            </li>
+        {% endfor %}
+        
+    </ul>
+</div>
